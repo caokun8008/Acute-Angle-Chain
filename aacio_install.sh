@@ -91,14 +91,18 @@
 
    install_symlinks   
 
-	printf "\n\n${bldred}\t _______  _______  _______ _________ _______\n"
-	printf '\t(  ____ \(  ___  )(  ____ \\\\__   __/(  ___  )\n'
-	printf "\t| (    \/| (   ) || (    \/   ) (   | (   ) |\n"
-	printf "\t| (__    | |   | || (_____    | |   | |   | |\n"
-	printf "\t|  __)   | |   | |(_____  )   | |   | |   | |\n"
-	printf "\t| (      | |   | |      ) |   | |   | |   | |\n"
-	printf "\t| (____/\| (___) |/\____) |___) (___| (___) |\n"
-	printf "\t(_______/(_______)\_______)\_______/(_______)\n${txtrst}"
+printf "\n\n${bldred}\t _______  _______  _______  _________  _______  _______ \n"
+        printf "\n"
+        printf '\t             aa               aa        ,cc8888cc,                   \n'
+	printf '\t            aaaa             aaaa      cc"     `acc                  \n'
+	printf '\t           aa `aa           aa `aa    cc                             \n'
+	printf '\t          aa   `aa         aa   `aa   cc                             \n'
+	printf '\t         aaaaaaaaaa       aaaaaaaaaa  cc                             \n'
+	printf '\t        aa""""""""aa     aa""""""""aa cc,                            \n' 
+	printf '\t       aa         `aa   aa         `aa cc.     .acc                  \n'
+	printf '\t      aa           `aa aa           `aa `"c8888c"                    \n'
+	printf '\t_______  _______  _______  _________  _______  _______               \n'
+	printf "\t\n${txtrst}"    
 
 	printf "\\tTo verify your installation run the following commands:\\n"
 
